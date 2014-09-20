@@ -1,0 +1,7 @@
+Todas las gemas se animan de la misma forma.
+
+Gema "X" 1: 0,1 seg.
+Gema "X" 2: 0,1 seg.
+Gema "X" 3: 0,2 seg.
+Gema "X" 2: 0,1 seg.
+(Y se repite desde ahí infinitamente)
