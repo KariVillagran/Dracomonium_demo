@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{E6F3360A-87A8-2DA2-1C3E-79F11ADBD84F}</ProjectGuid>
+	<ProjectGuid>{597301E2-8BB9-DF4E-1A12-C4416D5FB672}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -84,6 +84,7 @@
      <Compile Include="Assets\Scripts\c#\D2D_ReplaceOnCollision.cs" />
      <Compile Include="Assets\Scripts\c#\Escape.cs" />
      <Compile Include="Assets\Scripts\c#\GameManager.cs" />
+     <Compile Include="Assets\Scripts\c#\Gemas\Gems.cs" />
      <Compile Include="Assets\Scripts\c#\Head\Cabeza_derecha_01.cs" />
      <Compile Include="Assets\Scripts\c#\Head\Cabeza_derecha_02.cs" />
      <Compile Include="Assets\Scripts\c#\Head\Cabeza_derecha_03.cs" />
