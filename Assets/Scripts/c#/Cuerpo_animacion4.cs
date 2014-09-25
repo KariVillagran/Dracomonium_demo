@@ -16,5 +16,6 @@ public class Cuerpo_animacion4 : MonoBehaviour {
 			vida = GameManager.getLife(0);
 			an.SetTrigger("golpe");
 		}
+		//Debug.Log(an.GetCurrentAnimatorStateInfo(0).IsName("Golpeado"));
 	}
 }
