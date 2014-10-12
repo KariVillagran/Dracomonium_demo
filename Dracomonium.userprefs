@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\IA\Decision.cs">
+    <Files>
+      <File FileName="Assets\IA\Decision.cs" Line="52" Column="4" />
+      <File FileName="Assets\Scripts\c#\Library\Dragon.cs" Line="12" Column="3" />
+      <File FileName="Assets\IA\Dificultad.cs" Line="14" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,6 +1,12 @@
 fileFormatVersion: 2
 guid: b843296427d0ffb4eaa27e7e478a3bc8
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite sheet fuego_0
+    21300002: sprite sheet fuego_1
+    21300004: sprite sheet fuego_2
+    21300006: sprite sheet fuego_3
+    21300008: sprite sheet fuego_4
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
