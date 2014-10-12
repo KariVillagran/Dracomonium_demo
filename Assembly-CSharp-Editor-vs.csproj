@@ -61,7 +61,7 @@
      <None Include="Assets\Destructible2D\Required\Shaders\Sprites-Default (Destructible 2D).shader" />
      <None Include="Assets\Texture\Gems\Animación Gemas.txt" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>C:/Users/Kari/Documents/GitHub/Dracomonium_demo/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>C:/Users/Kari/Documents/Dracomonium_demo/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
