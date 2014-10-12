@@ -86,14 +86,22 @@
      <Compile Include="Assets\Scripts\c#\D2D_ReplaceOnCollision.cs" />
      <Compile Include="Assets\Scripts\c#\Escape.cs" />
      <Compile Include="Assets\Scripts\c#\GameManager.cs" />
+     <Compile Include="Assets\Scripts\c#\Gemas\Config_gemas.cs" />
      <Compile Include="Assets\Scripts\c#\Gemas\Gems.cs" />
+<<<<<<< HEAD
      <Compile Include="Assets\Scripts\c#\Gemas\cp_find_gema.cs" />
+=======
+>>>>>>> bc6e635eed56034c9dca1304884fb457da3be32f
      <Compile Include="Assets\Scripts\c#\Gemas\cp_find_gema1.cs" />
      <Compile Include="Assets\Scripts\c#\Gemas\cp_find_gema2.cs" />
      <Compile Include="Assets\Scripts\c#\Gemas\cp_find_gema3.cs" />
      <Compile Include="Assets\Scripts\c#\Gemas\cp_find_gema4.cs" />
      <Compile Include="Assets\Scripts\c#\Gemas\cp_find_gema5.cs" />
      <Compile Include="Assets\Scripts\c#\Gemas\cp_find_gema6.cs" />
+<<<<<<< HEAD
+=======
+     <Compile Include="Assets\Scripts\c#\Gemas\cp_gemas.cs" />
+>>>>>>> bc6e635eed56034c9dca1304884fb457da3be32f
      <Compile Include="Assets\Scripts\c#\Head\Cabeza_derecha_01.cs" />
      <Compile Include="Assets\Scripts\c#\Head\Cabeza_derecha_02.cs" />
      <Compile Include="Assets\Scripts\c#\Head\Cabeza_derecha_03.cs" />

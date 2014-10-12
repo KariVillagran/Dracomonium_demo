@@ -7,6 +7,7 @@ public class PlayerManager {
 
 	public List<Dragon> dragonesPartida = new List<Dragon>();
 
+
 	public PlayerManager() {}
 
 	public void initGame()
